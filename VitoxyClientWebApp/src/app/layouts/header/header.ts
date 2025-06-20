@@ -28,7 +28,7 @@ export class Header {
   
   menuItems = [
     { label: 'Medecines', path: '/dashboard' },
-    { label: 'Hire Staff', path: '/user-onboarding' },
+    { label: 'Book Staff', path: '/user-onboarding' },
     { label: 'Lab Test', path: '/user-onboarding' },
     { label: 'Diet Plans', path: '/user-profile' },
     { label: 'Doctor Consultation', path: '/meera-ai' },
